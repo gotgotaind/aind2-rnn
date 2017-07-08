@@ -1,0 +1,33 @@
+
+regression tests
+linear
+training error reg = 0.0229433680184
+training error reg = 0.0228778660638
+degree 2
+training error reg = 0.036938773094
+training error reg = 0.0226167195333
+degree 3
+training error reg = 0.0783705748693
+training error reg = 0.0601072555158
+degree 4
+training error reg = 0.256697641985
+training error reg = 0.193833220498
+
+ABB 
+testing err ltsm : 0.0090546183932
+testing err last : 0.00563819718339
+
+IBM
+0.0064658676047
+0.00651037152473
+
+AAPL
+0.0139837321327
+0.0144234973925
+
+HSNI
+0.135038274454
+0.0069824374755
+
+
+
